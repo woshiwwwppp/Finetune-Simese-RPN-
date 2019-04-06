@@ -1,6 +1,6 @@
 # Finetune-Simese-RPN-
-Finetuning siamese rpn on your dataset using author's weight and make it work better on your dataset
-you can find author's weight here https://github.com/foolwood/DaSiamRPN
+Finetuning siamese rpn on your dataset using author's weight and make it work better on your dataset.
+You can find author's weight here https://github.com/foolwood/DaSiamRPN
 
 @inproceedings{Zhu_2018_ECCV,
   title={Distractor-aware Siamese Networks for Visual Object Tracking},
